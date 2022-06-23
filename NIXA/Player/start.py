@@ -78,7 +78,7 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🥇 قناة السورس 🥇", url=f"https://t.me/VFF35")
+                        "🥇 قناة السورس 🥇", url=f"https://t.me/X_8_00")
                 ]
             ]
         ),
@@ -94,7 +94,7 @@ async def help(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "𝐒𝐈𝐅 𝐂𝐎𝐁𝐑𝐀️", url=f"https://t.me/QABNADLIB")
+                        "𝐒𝐈𝐅 𝐂𝐎𝐁𝐑𝐀️", url=f"https://t.me/X_8_00")
                 ]
             ]
         ),
